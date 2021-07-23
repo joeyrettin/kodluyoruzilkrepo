@@ -8,7 +8,7 @@
 *Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet de index.html barındırıyor.*
 
 # Github İlk Repository Oluşturma Ayarları #
-![GitHub Ayarları](https://github.com/joeyrettin/kodluyoruzilkrepo/blob/main/img/%C4%B0lkRepoEkran.PNG)
+![GitHub Ayarları](https://i.hizliresim.com/92aktnf.PNG)
 
 # Installation #
 Öncelikle projeyi clonelayın.
