@@ -39,7 +39,7 @@
 
 ## Kullanılan Vs Code Eklentileri ##
 
-[Bracket Pair Colorizer 2 ](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+[Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
