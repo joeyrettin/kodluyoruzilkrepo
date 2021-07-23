@@ -1,9 +1,9 @@
 # Kodluyoruz FrontEnd 101 Eğitimi #
-> Şerafettin Fidan
+>Şerafettin Fidan
 
 >Elektrik - Elektronik Mühendisi    
 
->[LinkedIn](https://www.linkedin.com/in/%C5%9Ferafettin-fidan-260b58106/)
+[LinkedIn](https://www.linkedin.com/in/%C5%9Ferafettin-fidan-260b58106/)
 
 ## Eğitimin Genel Hedefleri ##
 
