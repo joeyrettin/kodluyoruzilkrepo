@@ -10,6 +10,22 @@
 # Github İlk Repository Oluşturma Ayarları #
 ![GitHub Ayarları](https://github.com/joeyrettin/kodluyoruzilkrepo/blob/main/img/%C4%B0lkRepoEkran.PNG)
 
+# Installation #
+Öncelikle projeyi clonelayın.
+```
+https://github.com/joeyrettin/kodluyoruzilkrepo.git
+```
+# Usage #
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux İçin
+```
+cd kodluyoruzilkrepo
+code .
+```
+# Contributing #
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
 ## Kullanılan Vs Code Eklentileri ##
 
 [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
